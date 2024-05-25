@@ -35,7 +35,7 @@ Get everything off the walls, off the floors and in boxes, so that over the cour
 > Ethernet will not work.  Wifi connection only.  
 ### Timeline
 This Weekend: Sat 5/25 - Mon 5/27
-- House prep work for the pod.  Packing, storing.  Prep for the pod.  **Everything we don't use on a daily basis will go into a box.**  Living room is the pod staging area.  
+- House prep work for the pod.  Packing, storing.  Prep for the pod.  **Everything we don't use on a daily basis will go into a box.**  Leslies office is the pod staging area.  
 - Barbecue on Mon 5/27
 Tue 5/28
 - Pod arrives 
