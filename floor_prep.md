@@ -1,3 +1,6 @@
+Mood: Happy, busy.
+
+Scratch:
 This weekend is prep-work for [[Twenty Twenty Floor]].  Many things need to happen.  
 
 ### Mission Objective:
@@ -44,20 +47,20 @@ Next weekend: Sat 6/1 - Sun 6/2
 - The computers Hephaestus and Spunky, go into storage.  
 - All appliances cleaned out and go into the pod (spare the deep freeze)
 ### Grandroom
-- [ ] Disassemble / clean out desk
-- [ ] Home-lab shutdown & storage
-- [ ] Load book boxes
-- [ ] Load game systems, 
-- [ ] Remove TV
-- [ ] Remove curtains 
-- [ ] Everything off walls
-- [ ] Store blankets
+- [ ] Disassemble / clean out desk.
+- [ ] Home-lab shutdown & storage.
+- [ ] Load book boxes.
+- [ ] Load game systems.
+- [ ] Remove TV.
+- [ ] Remove curtains.
+- [ ] Everything off walls.
+- [ ] Store blankets.
 ### Livingroom
  - [ ] Everything off walls
  - [ ] TV & Entertainment system stays till next weekend. Then vamoose off to pod storage.
  - [ ] Things off couches.  
  - [ ] Things off counters.
- - [ ] Decorative items off furniture
+ - [ ] Decorative items off furniture.
 ### James' Room
 - [ ] Decorative items off furniture.
 - [ ] Decorative items off walls.
@@ -66,28 +69,28 @@ Next weekend: Sat 6/1 - Sun 6/2
 - [ ] Excess clothes packed.
 
 ### James' Bathroom
-- [ ] Closet cleaned out
-- [ ] Everything inside the sink cabinet can stay
+- [ ] Closet cleaned out & packed.
+- [ ] Everything inside the sink cabinet can stay.
 - [ ] Sink top & toilet top must be cleaned off of decorative items, only items that are used every day should remain.
 - [ ] Makeup table cleaned off, although we can store it with everything that's in there already.  
 ### Livingroom Closet
 - [ ] All items packed.  
 ### Laundry Room
-- [ ] Bev Fridge cleaned out
-- [ ] Bev Pantry cleaned out & food stored, planned for in the meal plan or donated
+- [ ] Bev Fridge cleaned out.
+- [ ] Bev Pantry cleaned out & food stored, planned for in the meal plan or donated.
 - [ ] Bev freezer unloaded and moved to the workshop for temporary cold food storage.   
 
 ### Master Bedroom
 - [ ] Decorative items off furniture.
 - [ ] Decorative items off walls.
 - [ ] Decorative items off floors.  
-- [ ] Drawers cleaned out and/or out of dressers
+- [ ] Drawers cleaned out and/or out of dressers.
 - [ ] All clothes not used in the packed bag stored.
-- [ ] All other items in the closet stored
-- [ ] Blankets stored
+- [ ] All other items in the closet stored.
+- [ ] Blankets stored.
 - [ ] Remove fixed blanket bookcase - Travis Only
 
-### Bathroom
+### Master Bathroom
 - [ ] Decorative items off furniture.
 - [ ] Decorative items off walls.
 - [ ] Decorative items off floors.
@@ -96,11 +99,11 @@ Next weekend: Sat 6/1 - Sun 6/2
 - [ ] Decorative items off furniture.
 - [ ] Decorative items off walls.
 - [ ] Decorative items off floors.
-- [ ] Clean out / pack up desk
-- [ ] 
+- [ ] Clean out / pack up desk.
+- [ ] Yarn wall stored and torn down.
 
 ### Dispute Toilet
-- [ ] Clean out storage, storage unit will be replaced
+- [ ] Clean out storage, storage unit will be replaced.
 - [ ] Remove sink - Travis Only
 - [ ] Remove stupid old person hand arm help up thing - Travis Only
 - [ ] Remove stupid wallpaper (may require toilet removal) - Travis Only
